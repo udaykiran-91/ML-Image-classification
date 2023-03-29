@@ -1,4 +1,5 @@
-# ML-Image-classification-project
+# Machine Learning Project - Sports Celebrity Image Classification
+<br/>
 
 ## Welcome page
 

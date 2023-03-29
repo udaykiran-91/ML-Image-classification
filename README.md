@@ -5,6 +5,7 @@
 
 
 ![1](https://user-images.githubusercontent.com/127354822/228397255-6c4459ba-cb67-4512-a734-2f755425b9f9.png)
+<br/>
 
 ## Example 1 : Uploading Lionel Messi Image
 
@@ -13,6 +14,7 @@
 ##  Result:
 
 ![3](https://user-images.githubusercontent.com/127354822/228398003-534a1f95-fcb9-4cf8-a24e-8c5472017f7a.png)
+<br/>
 
 ## Example 2 : Uploading Maria Sharapova Image
 
